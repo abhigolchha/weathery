@@ -1,6 +1,6 @@
 {
   "name": "weathery",
-  "app_id": "",
+  "app_id": "cea9c078",
   "type": "ionic-angular",
   "integrations": {
     "cordova": {}
